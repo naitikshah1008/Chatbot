@@ -24,12 +24,6 @@ The primary motivation of the developers of MapBot is to provide a playground to
 
 ------
 
-### Are you here for GSSoC 2020?
-
-Check out all related information [here](GSSoC.md)
-
-------
-
 ### What are some pre-requisites?
 
 - MySQL
