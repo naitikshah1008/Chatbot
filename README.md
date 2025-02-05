@@ -1,14 +1,3 @@
-<p align="center">
-  <img src="https://forthebadge.com/images/badges/made-with-python.svg">
-</p>
-<p align="center">
-  <a href="https://travis-ci.com/vishakha-lall/MapBot">
-    <img alt="Travis CI Build Status" src="https://travis-ci.com/vishakha-lall/MapBot.svg?branch=gssoc-master">
-  </a>
-  <a href="https://github.com/vishakha-lall/MapBot/">
-    <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/vishakha-lall/MapBot?color=darkblue&label=%20&logo=github">
-  </a>
-</p>
 
 # MapBot :earth_africa:
 
